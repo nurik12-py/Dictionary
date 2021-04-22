@@ -1,4 +1,4 @@
-# Dictionary build with JavaFX library
+# English-English 20k+ words Dictionary 
 
 ## Features
 - Instant search
