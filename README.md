@@ -1,4 +1,4 @@
-# English-English 20k+ words Dictionary 
+# English-English Dictionary with 20k+ words 
 
 ## Features
 - Instant search
